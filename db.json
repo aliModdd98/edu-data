@@ -140,56 +140,57 @@
     "Courses":[
       {
           "name": "Introduction to Programming",
-        "id": "CSE101",
+        "id": 0,
         "rating": 4.5,
         "img":"https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-64939.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Mathematics for Beginners",
-        "id": "MAT101",
+        "id": 1,
         "rating": 4.2,
         "img":"https://img.freepik.com/free-vector/maths-chalkboard_23-2148178220.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=sph"
       },{
         "name": "English Literature",
-        "id": "ENG201",
+        "id":2,
         "rating": 4.8,
         "img":"https://img.freepik.com/free-vector/hand-drawn-english-school-background_23-2149496626.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Digital Marketing Fundamentals",
-        "id": "MKT301",
+        "id":3,
         "rating": 4.6,
         "img":"https://img.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Introduction to Psychology",
-        "id": "PSY101",
+        "id": 4,
         "rating": 4.3,
         "img":"https://img.freepik.com/free-vector/abstract-background-design_1343-45.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=sph"
       },
       {
         "name": "Web Development with HTML and CSS",
-        "id": "WEB101",
+        "id": 5,
         "rating": 4.7,
         "img":"https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Data Science with Python",
-        "id": "DS301",
+        "id": 6,
         "rating": 4.9,
         "img":"https://img.freepik.com/free-vector/data-extraction-concept-illustration_114360-4766.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Graphic Design Basics",
-        "id": "DES201",
+        "id": 7,
         "rating": 4.4,
         "img":"https://img.freepik.com/free-vector/designer-girl-concept-illustration_114360-4455.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Business Analytics",
-        "id": "BUS401",
+        "id": 8,
         "rating": 4.6,
         "img":"https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       },{
         "name": "Photography Masterclass",
-        "id": "PHO301",
+        "id": 8,
         "rating": 4.8,
         "img":"https://img.freepik.com/free-photo/front-view-woman-taking-photos_23-2150506093.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
       }
-    ]
+    ],
+  
 
 }
